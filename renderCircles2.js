@@ -41,3 +41,7 @@ function circles() {
         content.innerHTML = innerHTML
 
 }
+
+/*
+Have not attempted all exercises here but I think I am on the right track
+*/ 
